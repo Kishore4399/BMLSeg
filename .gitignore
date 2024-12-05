@@ -1,0 +1,8 @@
+/dataset
+/GCN
+/outputs
+/predict
+bml.zip
+os
+*.h5
+*.tar
